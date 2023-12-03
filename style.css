@@ -1,0 +1,65 @@
+body {
+    background-image: url("bg1.avif");
+    font-size: 20px;
+}
+
+img {
+    width: 200px;
+}
+
+#nav-img {
+    width: 30%;
+}
+
+.navbar-brand {
+    margin-right: -12rem;
+}
+
+.top {
+    display: flex;
+    margin-left: 25%;
+}
+
+h1 {
+    margin-top: 3%;
+}
+
+form {
+    margin-left: 25%;
+}
+
+.box {
+    background-color: rgb(213, 228, 242);
+    opacity: 0.9;
+    width: 50%;
+    border-radius: 20px;
+    padding: 8px;
+    
+}
+
+.btn {
+    margin-left: 2%;
+}
+.lg{
+    width:100%;
+}
+label {
+    width: 200px;
+}
+
+table {
+    background-color: white;
+}
+p{
+    color:white;
+    background-color: black;
+    /* margin-top:15px; */
+    padding :15px;
+    text-align: center;
+    width:100%;
+    font-size: medium;
+}
+footer{
+    margin-top:20px;
+    margin-bottom:-20px;
+}
